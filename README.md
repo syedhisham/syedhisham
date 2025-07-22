@@ -10,7 +10,7 @@ Full Stack Developer with 3+ years of experience building modern, scalable web a
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=syedhisham&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=syedhisham&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedhisham&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=syedhisham&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=syedhisham&theme=radical&no-frame=false&no-bg=false&margin-w=4)
